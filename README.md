@@ -5,7 +5,6 @@
 - 💬 I’m open to collaborating on projects related to **Java**, **Spring Boot**, and **Angular** development.
 - 📫 Reach me via email: **nithiyaselvam98@gmail.com**.
 - 😄 Pronouns: She/Her
-- 🎮 Fun fact: I love watching **Chinese dramas**.
 
 <!---
 NithiyaSelvam/NithiyaSelvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
